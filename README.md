@@ -10,6 +10,8 @@ Un module relais,
 
 Tout ces composants pour réaliser un seul projet. Une Lampe Controller avec une télécommande. 
 
--1: Télécharger le fichier word  " Remote controlled Lamp" pour avoir accès aux codes et connexions du projet
+•	Téléversez d’abord le code « code_test_Ir » pour récupérer l’adresse des boutons de votre télécommande que vous voulez utiliser pour allumer et éteindre votre lampe.
 
--2: Vous retrouverez le code dans le fichier " IR_Lampe_code"
+•	Ensuite, televersez le code « IR_Lampe_code » pour pouvoir allumer et éteindre la lampe.
+
+•	Une fois la lampe branchée interdiction de toucher le module relais. Danger mortel d’électrocution 
